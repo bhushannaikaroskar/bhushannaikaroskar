@@ -1,4 +1,12 @@
-### Hi there 👋
+## Hi 👋, I'm Bhushan Naikaroskar 
+
+
+I am a frontend developer and started my journey in web development from July 2021. Currently I am learning Typscript and ExpressJS.
+
+- 🌍 I am from Mumbai, India
+- 👨‍💻 I make web apps in React and JavaScript
+- 🧠 Currently learning TypeScript and ExpressJS
+
 
 <!--
 **bhushannaikaroskar/bhushannaikaroskar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
